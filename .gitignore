@@ -1,0 +1,9 @@
+target/
+.classpath
+.DS_Store
+.project
+.settings/
+.metadata/
+src/.metadata/
+src/main/webapp/META-INF/context.xml
+RemoteSystemsTempFiles
